@@ -235,6 +235,8 @@ Execute:
 python main.py
 ```
 
+> **Observação:** Em alguns sistemas, pode ser necessário utilizar `python3 main.py`.
+
 ---
 
 # 📸 Demonstração
