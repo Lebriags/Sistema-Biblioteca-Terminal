@@ -1,5 +1,9 @@
 # Sistema de Biblioteca
 
+## 🔗 Repositório
+
+https://github.com/Lebriags/Sistema-Biblioteca-Terminal
+
 > Projeto desenvolvido em Python com foco em lógica de programação, estruturas de dados e organização de código.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
