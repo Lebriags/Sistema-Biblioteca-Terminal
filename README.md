@@ -216,13 +216,13 @@ biblioteca-python/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/biblioteca-python.git
+git clone https://github.com/Lebriags/Sistema-Biblioteca-Terminal.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd biblioteca-python
+cd Sistema-Biblioteca-Terminal
 ```
 
 Execute:
@@ -236,20 +236,6 @@ python main.py
 # 📸 Demonstração
 
 Em breve serão adicionadas imagens e GIFs demonstrando o funcionamento do sistema.
-
----
-
-# 📈 Critérios de Avaliação
-
-| Funcionalidade | Pontuação |
-|---------------|----------:|
-| Cadastro de livros | 2.0 |
-| Listagem | 1.5 |
-| Busca | 1.5 |
-| Empréstimo | 2.0 |
-| Devolução | 1.5 |
-| Estatísticas | 1.0 |
-| Organização e legibilidade | 0.5 |
 
 ---
 
@@ -273,7 +259,7 @@ O sistema deve funcionar corretamente nos seguintes cenários:
 
 # 👨‍💻 Autor
 
-Projeto desenvolvido por **Tecnico Paulistano** durante os estudos de Python.
+Projeto desenvolvido por **Lebriag** durante os estudos de Python.
 
 ---
 
